@@ -2,6 +2,20 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 
+function returnBadgeFunction(parameter) {
+    if(parameter === 'Apache') {
+       //write the code to return the correct badge we wish to render for apache
+       return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"
+
+       }
+    if(parameter === "Boost") {
+        return "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)"
+    }
+    else {
+        return "![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)"
+    }
+   }
+
 inquirer
     .prompt ([
         {
@@ -58,6 +72,8 @@ inquirer
     ])
     .then((answers) => {
         const newReadme = `# Title: ${answers.yourTitle}
+${returnBadgeFunction(answers.license)}
+
 
 ## Table of Contents
 * [Description](#description)
