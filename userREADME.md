@@ -1,5 +1,5 @@
-# Title: Why do you want to know?
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# Title: Node-README-Challenge
+![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
 
 ## Table of Contents
@@ -12,27 +12,27 @@
         
         
 ## Description: 
-* This is annoying.
+* This product takes in the inputs of the user and then inserts them inside a README.md file, generating its own README with the addition of choosing which badge you own.
         
         
-* Contribution guidelines: You bastard, you take pleasure from my suffering, don't you?!
+* Contribution guidelines: If you would like to contribute to the project, please contact me beforehand for permission.
 
 ## Installation:
 
-* Installation instructions: I have to do this again and again.
+* Installation instructions: Please download this link via the Github repository.
         
 ## Usage
 
-* Usage information: Why can't you just give me the end results I seek?
+* Usage information: You will need to use Vs Code's terminal in order to access the prompts, and answer the questions accordingly. Every prompted answer will be included in your README.
 
         
 ## Tests:
-* Test instructions: How could I raise my voice at you? I love you.
+* Test instructions: In order to test the product, please select the folder and select "open in terminal." Then type in node index.js to begin. You will be prompted from there.
         
 ## License: 
-* Boost
+* Creative Commons
         
 ## Questions: 
         
-* If you would like to contact me to address any further questions, please email me at ImaGoodPerson@goodman.com
-* You can find my GitHub at I'll never tell.
+* If you would like to contact me to address any further questions, please email me at youngleuchovius@gmail.com
+* You can find my GitHub at github.com/ElyLeslie
