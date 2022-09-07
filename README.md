@@ -37,4 +37,4 @@
 * If you would like to contact me to address any further questions, please email me at youngleuchovius@gmail.com
 * You can find my GitHub at github.com/ElyLeslie
 
-![Image of application](images\Readme-Generator-Screencap.PNG)
+![Image of application](./images/Readme-Generator-Screencap.PNG)
