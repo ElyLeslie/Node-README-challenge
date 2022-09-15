@@ -1,4 +1,4 @@
-# Title: Node-README-Challenge
+# HTML-Generator-Challenge
 ![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)
 
 
@@ -12,22 +12,22 @@
         
         
 ## Description: 
-* This product takes in the inputs of the user and then inserts them inside a README.md file, generating its own README with the addition of choosing which badge you own.
+* This product creates a possibly endless torrent of cards containing information about the manager and the team. It creates links to their GitHub after you insert the gitHub username, and provides links to their email addresses as well.
         
         
-* Contribution guidelines: If you would like to contribute to the project, please contact me beforehand for permission.
+* Contribution guidelines: If you wish to participate, please contact me first!
 
 ## Installation:
 
-* Installation instructions: Please download this link via the Github repository.
+* Installation instructions: Please download the repository using the SSH key in your terminal
         
 ## Usage
 
-* Usage information: You will need to use Vs Code's terminal in order to access the prompts, and answer the questions accordingly. Every prompted answer will be included in your README.
+* Usage information: When you type in the necessary information, the cards should automatically generate on their own. There should be no further conflictions. Mimimal user effort is rquired for convenience and ease of acecess
 
         
 ## Tests:
-* Test instructions: In order to test the product, please select the folder and select "open in terminal." Then type in node index.js to begin. You will be prompted from there.
+* Test instructions: To test the product, you must first install inquirer and jest accordingly. Thereafter, you need only type in "npm run test" into the terminal.
         
 ## License: 
 * Creative Commons
@@ -35,4 +35,4 @@
 ## Questions: 
         
 * If you would like to contact me to address any further questions, please email me at youngleuchovius@gmail.com
-* You can find my GitHub at github.com/ElyLeslie
+* You can find my GitHub at www.github.com/ElyLeslie

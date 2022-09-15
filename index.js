@@ -71,7 +71,7 @@ inquirer
         },
     ])
     .then((answers) => {
-        const newReadme = `# Title: ${answers.yourTitle}
+        const newReadme = `# ${answers.yourTitle}
 ${returnBadgeFunction(answers.license)}
 
 
